@@ -1,4 +1,4 @@
-module github.com/pixeldump/bastioncache-go
+module github.com/allhingeslost/bastioncache-go
 
 go 1.25.1
 
